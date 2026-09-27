@@ -1,0 +1,12 @@
+fastapi==0.110.0
+uvicorn[standard]==0.28.0
+pydantic==2.6.4
+sqlalchemy==2.0.28
+psycopg2-binary==2.9.9
+cryptography==42.0.5
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
+easyocr==1.7.1
+deepface==0.0.87
+tf-keras==2.16.0
+python-multipart==0.0.9
